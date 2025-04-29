@@ -27,3 +27,63 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+.arimo-yes {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+body { 
+    background-image: url("pexels-photo-2908975.jpeg");
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 500px;
+
+}
+
+img {
+    border-radius: 20px;
+    border-width: 2px;
+    border: solid;
+    border-color: rgb(58, 58, 143);
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#jordans-1-desc{
+    padding: 10px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    border-width: 2px;
+    border: solid;
+    border-color: rgb(58, 58, 143);
+}
+
+#jordans-2-desc{
+    padding: 10px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    border-width: 2px;
+    border: solid;
+    border-color: rgb(58, 58, 143);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    width: 600px;
+    font-size: 25px;
+}
+
